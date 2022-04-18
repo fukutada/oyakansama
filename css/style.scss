@@ -247,7 +247,7 @@ position: fixed;
         align-items: center;
         justify-content:center;
     }
-    //storeの画像
+    //storeのリンク画像
     &_store{
         max-width: 130px;
         margin: 0;
@@ -261,7 +261,7 @@ position: fixed;
     }
 }
 
-  //form
+  //ユーザー登録フォーム
 form{
     display: flex;
     flex-wrap: wrap;
@@ -306,7 +306,7 @@ input{
 input:last-child{
     margin-bottom: 0;
 }
-
+//送信ボタン
 input[type="submit"]{
     width: 138px;
     height: auto;
