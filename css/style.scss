@@ -176,6 +176,7 @@ position: fixed;
         max-width: 263px;
         margin-bottom: 105px;
     }
+    //flex
     &_flex{
     display: flex;
     flex-wrap: wrap;
@@ -183,6 +184,7 @@ position: fixed;
     justify-content: space-around;
     margin-bottom: 75px;
     }
+    //flexの中
     &_flexin{
     text-align: center;
     }
@@ -190,6 +192,7 @@ position: fixed;
         width: 100%;
         max-width: 266px;
     }
+    //説明文
     &_text{
         max-width: 380px;
         text-align: left;
@@ -244,7 +247,7 @@ position: fixed;
         align-items: center;
         justify-content:center;
     }
-
+    //storeの画像
     &_store{
         max-width: 130px;
         margin: 0;
